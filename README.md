@@ -10,7 +10,7 @@ Hi! This repo contains my lecture contents for deep learning. I assume that the 
 
 ## Word Embedding
 
-1. Implementation of Word2Vec (CBOW, Skip-gram) [data1](data/neg_train) [data2](data/pos_train) [QUS](WordEmbedding/[QUS] word2vec.ipynb) [ANS](WordEmbedding/[ANS] word2vec.ipynb)
+1. Implementation of Word2Vec (CBOW, Skip-gram) [data1](data/neg_train) [data2](data/pos_train) [QUS](<WordEmbedding/[QUS] word2vec.ipynb>) [ANS](<WordEmbedding/[ANS]\ word2vec.ipynb>)
 
    *Credit to : Davian Lab*
 
@@ -18,14 +18,14 @@ Hi! This repo contains my lecture contents for deep learning. I assume that the 
 
 ## Application of RNN
 
-1. NAVER Movie Review Sentiment Analysis [data](data/movie_review) [QUS](RNN/[QUS] Naver Movie Review Sentiment Analysis.ipynb) [ANS](RNN/[ANS] Naver Movie Review Sentiment Analysis.ipynb)
+1. NAVER Movie Review Sentiment Analysis [data](data/movie_review) [QUS](<RNN/[QUS] Naver Movie Review Sentiment Analysis.ipynb>) [ANS](<RNN/[ANS] Naver Movie Review Sentiment Analysis.ipynb>)
 
    *Credit to: https://github.com/e9t/nsmc for Naver movie review dataset*
 
-2. How to use RNN (vanilla RNN, LSTM, GRU) [QUS](RNN/[QUS] How_to_use_RNN.ipynb) [ANS](RNN/[ANS] How_to_use_RNN.ipynb)
+2. How to use RNN (vanilla RNN, LSTM, GRU) [QUS](<RNN/[QUS] How_to_use_RNN.ipynb>) [ANS](<RNN/[ANS] How_to_use_RNN.ipynb>)
 
    *Credit to : Davian Lab*
 
-3. Bitcoin with RNN [data](data/BTC-KRW.csv) [QUS](RNN/[QUS] Bitcoin_with_RNN.ipynb) [ANS](RNN/[ANS] Bitcoin_with_RNN.ipynb)
+3. Bitcoin with RNN [data](data/BTC-KRW.csv) [QUS](<RNN/[QUS] Bitcoin_with_RNN.ipynb>) [ANS](<RNN/[ANS] Bitcoin_with_RNN.ipynb>)
 
-​		*Credit to: yahoo finance for bitcoin dataset (https://finance.yahoo.com/quote/BTC-KRW/)*
+   *Credit to: yahoo finance for bitcoin dataset (https://finance.yahoo.com/quote/BTC-KRW/)*
