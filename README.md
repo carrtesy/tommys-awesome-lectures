@@ -10,7 +10,7 @@ Hi! This repo contains my lecture contents for deep learning. I assume that the 
 
 ## Word Embedding
 
-1. Implementation of Word2Vec (CBOW, Skip-gram) [data1](data/neg_train) [data2](data/pos_train) [QUS](<WordEmbedding/[QUS] word2vec.ipynb>) [ANS](<WordEmbedding/[ANS]\ word2vec.ipynb>)
+1. Implementation of Word2Vec (CBOW, Skip-gram) [data1](data/neg_train) [data2](data/pos_train) [QUS](<WordEmbedding/[QUS] word2vec.ipynb>) [ANS](<WordEmbedding/[ANS] word2vec.ipynb>)
 
    *Credit to : Davian Lab*
 
