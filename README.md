@@ -8,6 +8,14 @@ Hi! This repo contains my lecture contents for deep learning. I assume that the 
 
 
 
+## Trees
+
+1. Lecture Notes: [ML_Classification_Review](Trees/ML_Classification_Review.pdf) [Trees](Trees/trees.pdf) [Ensembles](Trees/ensembling_with_trees.pdf)
+
+2. Kaggle Titanic: [jupyter notebook](Trees/titanic-with-tree-0111.ipynb) 
+
+   
+
 ## Word Embedding
 
 1. Implementation of Word2Vec (CBOW, Skip-gram) [data1](data/neg_train) [data2](data/pos_train) [QUS](<WordEmbedding/[QUS] word2vec.ipynb>) [ANS](<WordEmbedding/[ANS]\ word2vec.ipynb>)
